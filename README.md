@@ -34,8 +34,7 @@
                     </div>
 
                     <div class="contact-item">
-                        <div class="icon">📞</div>
-                            <h4>Telepon</h4>
+                            <h4>📞 Telepon</h4>
                             <p>0812-3456-7890</p>
                         </div>
                     </div>
